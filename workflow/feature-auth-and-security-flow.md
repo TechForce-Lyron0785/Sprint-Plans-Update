@@ -8,3 +8,7 @@
 - Commit: feat(auth): document secure password handling checklist
 - Date: 2026-04-07 10:45:31
 
+## Step 3
+- Commit: docs(auth): add login and signup API stream notes
+- Date: 2026-04-07 10:45:31
+
