@@ -12,3 +12,7 @@
 - Commit: docs(auth): add login and signup API stream notes
 - Date: 2026-04-07 10:45:31
 
+## Step 4
+- Commit: chore(auth): record middleware validation checkpoints
+- Date: 2026-04-07 10:45:31
+
