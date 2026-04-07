@@ -16,3 +16,7 @@
 - Commit: chore(api): capture middleware simplification notes
 - Date: 2026-04-07 10:45:32
 
+## Step 5
+- Commit: refactor(api): finalize api cleanup stream notes
+- Date: 2026-04-07 10:45:32
+
