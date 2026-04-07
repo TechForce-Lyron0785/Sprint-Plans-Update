@@ -12,3 +12,7 @@
 - Commit: docs(fix): add regression checklist for edge cases
 - Date: 2026-04-07 10:45:33
 
+## Step 4
+- Commit: fix(ui): capture form fallback behavior updates
+- Date: 2026-04-07 10:45:33
+
