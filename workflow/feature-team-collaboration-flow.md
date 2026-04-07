@@ -12,3 +12,7 @@
 - Commit: docs(team): add member management stream details
 - Date: 2026-04-07 10:45:32
 
+## Step 4
+- Commit: chore(team): capture role assignment validation notes
+- Date: 2026-04-07 10:45:32
+
