@@ -16,3 +16,7 @@
 - Commit: fix(ui): capture form fallback behavior updates
 - Date: 2026-04-07 10:45:33
 
+## Step 5
+- Commit: fix(stability): finalize stability workflow notes
+- Date: 2026-04-07 10:45:33
+
