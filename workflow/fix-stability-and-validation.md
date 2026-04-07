@@ -8,3 +8,7 @@
 - Commit: fix(api): document error response consistency checks
 - Date: 2026-04-07 10:45:33
 
+## Step 3
+- Commit: docs(fix): add regression checklist for edge cases
+- Date: 2026-04-07 10:45:33
+
