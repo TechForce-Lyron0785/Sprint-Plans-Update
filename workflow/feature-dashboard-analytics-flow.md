@@ -8,3 +8,7 @@
 - Commit: feat(dashboard): document overview metrics wiring steps
 - Date: 2026-04-07 10:45:31
 
+## Step 3
+- Commit: docs(dashboard): add chart data sync checkpoints
+- Date: 2026-04-07 10:45:31
+
