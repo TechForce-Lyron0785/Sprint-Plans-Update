@@ -12,3 +12,7 @@
 - Commit: docs(ui): add reusable modal extraction notes
 - Date: 2026-04-07 10:45:32
 
+## Step 4
+- Commit: chore(ui): capture css organization checkpoints
+- Date: 2026-04-07 10:45:32
+
