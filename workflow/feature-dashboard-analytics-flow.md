@@ -4,3 +4,7 @@
 - Commit: feat(dashboard): add analytics stream planning notes
 - Date: 2026-04-07 10:45:31
 
+## Step 2
+- Commit: feat(dashboard): document overview metrics wiring steps
+- Date: 2026-04-07 10:45:31
+
