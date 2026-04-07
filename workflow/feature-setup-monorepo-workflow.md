@@ -8,3 +8,7 @@
 - Commit: chore(repo): document backend and frontend startup sequence
 - Date: 2026-04-07 10:45:30
 
+## Step 3
+- Commit: docs(readme): add branch workflow checkpoints
+- Date: 2026-04-07 10:45:31
+
