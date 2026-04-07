@@ -8,3 +8,7 @@
 - Commit: refactor(ui): document dashboard component grouping
 - Date: 2026-04-07 10:45:32
 
+## Step 3
+- Commit: docs(ui): add reusable modal extraction notes
+- Date: 2026-04-07 10:45:32
+
