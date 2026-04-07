@@ -8,3 +8,7 @@
 - Commit: feat(team): document team creation workflow checkpoints
 - Date: 2026-04-07 10:45:32
 
+## Step 3
+- Commit: docs(team): add member management stream details
+- Date: 2026-04-07 10:45:32
+
