@@ -16,3 +16,7 @@
 - Commit: feat(config): add environment preparation checklist
 - Date: 2026-04-07 10:45:31
 
+## Step 5
+- Commit: chore(git): finalize bootstrap stream notes
+- Date: 2026-04-07 10:45:31
+
