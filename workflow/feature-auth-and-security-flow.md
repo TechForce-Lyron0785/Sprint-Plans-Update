@@ -4,3 +4,7 @@
 - Commit: feat(auth): outline token lifecycle flow
 - Date: 2026-04-07 10:45:31
 
+## Step 2
+- Commit: feat(auth): document secure password handling checklist
+- Date: 2026-04-07 10:45:31
+
